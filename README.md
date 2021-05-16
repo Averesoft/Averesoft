@@ -6,4 +6,4 @@ I was first exposed to competitive programming in 2019 when I was self-learning 
 
 In my spare time, I like to play video games and watch anime.
 
-![Averesoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Averesoft&bg_color=60,00ffc3,00ffff,00b7ff,006aff&title_color=000&text_color=000)
+![Averesoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Averesoft&bg_color=60,00ffc3,00ffff,00b7ff,006aff&title_color=ffffff&text_color=ffffff)
